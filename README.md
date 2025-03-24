@@ -12,6 +12,11 @@ Some ideas of how sticky sections can be animated while exiting the viewport.
 
 Run this demo on a [local server](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Tools_and_setup/set_up_a_local_testing_server).
 
+1. If you have Node.js installed, you can use a simple HTTP server:
+   - Install globally with: npm install -g http-server  (or use npx http-server)
+2. In this project directory, run: http-server
+3. Open your browser at http://localhost:8080 (or the port shown in your terminal) to preview the project.
+
 ## Credits
 
 - Images by [Annas Muslimin](https://www.vecteezy.com/members/annazdsgn)

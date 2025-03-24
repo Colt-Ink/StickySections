@@ -1,0 +1,16 @@
+{
+  "name": "sticky-sections",
+  "version": "1.0.0",
+  "description": "Animations for Sticky Sections",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx http-server",
+    "debug": "node --inspect-brk server.js"
+  },
+  "author": "Codrops",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "http-server": "^0.12.3"
+  }
+}
